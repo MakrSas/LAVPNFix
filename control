@@ -1,0 +1,9 @@
+Package: com.user.lavpnfix
+Name: LA VPN Fix
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Description: Grants VPN consent locally in nehelper on tether-downgraded devices (broken SEP LocalAuthentication). Remove via Sileo anytime.
+Depends: mobilesubstrate
+Maintainer: user <user@localhost>
+Author: user
+Section: Tweaks
